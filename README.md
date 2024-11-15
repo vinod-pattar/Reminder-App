@@ -1,5 +1,8 @@
 # Reminder App
 
+<img width="1680" alt="image" src="https://github.com/user-attachments/assets/dcc66696-d67b-49e3-b127-3b46a308c8d7">
+
+
 The **Reminder App** is a no-code solution designed to automate email reminders for upcoming events. Built using Tally Forms, Pabbly Connect, and Gmail, it allows users to effortlessly manage reminders without writing a single line of code.  
 
 ## Features
